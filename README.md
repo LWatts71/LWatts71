@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on my 3rd case study for my Data Analytics Portfolio
+🔭 I’m currently applying for junior DA jobs after finishing the first version of my Data Analytics Portfolio
 
 🌱 I’m currently learning R, SQL, Tableau
 
